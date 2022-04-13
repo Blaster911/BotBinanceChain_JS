@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "ethers": "^5.5.4",
+    "jssoup": "^0.0.15",
+    "prompt-sync": "^4.2.0"
+  }
+}
